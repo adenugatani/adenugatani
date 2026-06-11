@@ -24,8 +24,8 @@ Git · Figma · Postman · VS Code
 
 ## 📌 Things I've Built
 
-| Project | Description | Stack |
-|---|---|---|
+| Project| Stack |
+|---|---|
 | [pgraters.com](https://pgraters.com)| React · TypeScript |
 | [wdef.ng](https://wdef.ng) | Next.js · TypeScript |
 
