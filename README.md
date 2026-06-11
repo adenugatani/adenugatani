@@ -26,8 +26,8 @@ Git · Figma · Postman · VS Code
 
 | Project | Description | Stack |
 |---|---|---|
-| [pgraters.com](https://pgraters.com) | PG ratings platform | React · TypeScript |
-| [wdef.ng](https://wdef.ng) | Nigerian defence platform | Next.js · TypeScript |
+| [pgraters.com](https://pgraters.com)| React · TypeScript |
+| [wdef.ng](https://wdef.ng) | Next.js · TypeScript |
 
 ---
 
@@ -54,7 +54,7 @@ I write about web security, React, and what building software in high-stakes env
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mary%20Adenuga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenugatani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mary%20Tanitoluwa%20Adenuga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenugatani)
 [![Medium](https://img.shields.io/badge/Medium-@tanitoluwaadenuga-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@tanitoluwaadenuga)
 
 ---
